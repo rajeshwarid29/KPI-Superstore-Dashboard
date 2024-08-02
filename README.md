@@ -12,16 +12,16 @@ Data Import: Cleaned data was then imported into Tableau for visualization.
 
 # Dashboard Features:
 
-Total Sales
-Total Profit
-Profit per Order
-Count of Orders
-Return Rate
-Average Order Value
-Sales by Region
-Sales by Category and Subcategory
-Customer Segmentation
-Top 10 Products by Sales
+Total Sales,
+Total Profit,
+Profit per Order,
+Count of Orders,
+Return Rate,
+Average Order Value (AOV),
+Sales by Region,
+Sales by Category and Subcategory,
+Customer Segmentation,
+Top 10 Products by Sales, and
 Sales by Time Period
 
 # Objective:
